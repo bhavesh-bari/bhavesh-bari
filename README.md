@@ -58,15 +58,14 @@ const bhavesh = {
 
 ## 📊 GitHub Stats  
 
-|  ![](https://github-readme-stats.vercel.app/api?username=Prathamesh-Kothalkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-Kothalkar&theme=dark&hide_border=false)  |
+|  ![](https://github-readme-stats.vercel.app/api?username=bhavesh-bari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-bari&theme=dark&hide_border=false)  |
 |---|---|  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Kothalkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-bari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Prathamesh-Kothalkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=bhavesh-bari&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
----
 
 ## 📬 Contact Me  
 
